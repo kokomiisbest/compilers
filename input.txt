@@ -1,0 +1,10 @@
+cx identificer
+= operation
+1 integer
+* operation
+( delimiter
+2 integer
++ operation
+3.4 real
+) delimiter
+; de;imiter

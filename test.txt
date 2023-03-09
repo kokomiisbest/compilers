@@ -1,0 +1,18 @@
+begin
+int main()
+{
+int a[12];
+int b=-15;
+double c=20.22
+int c_x=3.1415926
+char array[10];
+int _x=a;
+if(_x==a)
+{
+while(a)
+a=a*3;
+}
+###
+return 0;
+}
+end
